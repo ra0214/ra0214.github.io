@@ -1,0 +1,27 @@
+.hero-section{
+    height: 90vh;
+    background: url(img/contactos.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(106, 141, 163, 0.7);
+    background-blend-mode: multiply;
+    display: flex;
+    align-items: center;
+}
+
+.wrap-social-logos ul, .wrap-menu-footer-section ul{
+    display: flex;
+    justify-content: center;
+}
+
+.social-logo{
+    max-width: 75px;
+    width: 100%;
+    padding: 1rem
+}
+
+.footer-section{
+    max-width: 1200px;
+    margin: 0 auto;
+}
